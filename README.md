@@ -3,7 +3,7 @@
 This guide provides step-by-step instructions to set up a Network Intrusion Detection System (NIDS) using Snort, with optional visualization using the ELK stack (Elasticsearch, Logstash, Kibana), and automated response using Fail2ban.
 
 ## Prerequisites
-- A Linux system (Ubuntu/Debian/CentOS)
+- A Linux system 
 - Root or sudo access
 - Basic knowledge of Linux command-line
 
